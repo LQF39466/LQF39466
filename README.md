@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LQF39466
-- 🌱 I’m a graduate of HUST, currently studying at UCAS
+- 🌱 I’m a student at School of Computer Science and Technology, University of Chinese Academy of Sciences.
 - 📫 You can reach me by mailing to leiqf@foxmail.com
 
 - My current research interest lies in Trustworthy Machine Learing and other security issues reguarding nerual networks.
