@@ -8,7 +8,7 @@
 
 - Check out my lateset work:
 
-\[AAAI26\][TuckA: Hierarchical Compact Tensor Experts for Efficient Fine-Tuning]{https://github.com/LQF39466/TuckA.git}
+\[**AAAI26**\] [TuckA: Hierarchical Compact Tensor Experts for Efficient Fine-Tuning](https://github.com/LQF39466/TuckA.git)
 
 <!---
 LQF39466/LQF39466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
